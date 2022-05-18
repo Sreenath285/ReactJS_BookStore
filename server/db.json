@@ -1,0 +1,60 @@
+{
+  "bookStore": [
+    {
+      "id": 1,
+      "bookName": "UX for Dummies",
+      "authorName": "Kevin Nichols",
+      "bookPrice":1635,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41D3e3nBplS._SX397_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "bookName": "A Project Guide to UX Design",
+      "authorName": "Russ Unger",
+      "bookPrice":750,
+      "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/41Dzr9riU%2BL._SY445_SX342_QL70_ML2_.jpg"
+    },
+    {
+      "id": 3,
+      "bookName": "Android Programming for Beginners",
+      "authorName": "John Horton",
+      "bookPrice":837,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61fD4w9w7RL.jpg"
+    },
+    {
+      "id": 4,
+      "bookName": "Don't Make Me Think",
+      "authorName": "Steve Krug",
+      "bookPrice":650,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51WS36aA2BL._SX387_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 5,
+      "bookName": "Lean UX : Designing Great Products With Agile Teams",
+      "authorName": "Jeff Gothelf",
+      "bookPrice":550,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71xdd+P4SML.jpg"
+    },
+    {
+      "id": 6,
+      "bookName": "Mastering Sharepoint Framework",
+      "authorName": "Nachan Nanddeep",
+      "bookPrice":779,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61FpJ1hYi+L.jpg"
+    },
+    {
+      "id": 7,
+      "bookName": "The Complete Guide To Group Discussion",
+      "authorName": "Prof. Shrikant Prasoon ",
+      "bookPrice":155,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61v5HagJmjL.jpg"
+    },
+    {
+      "id": 8,
+      "bookName": "Java: The Complete Reference, Tenth Edition",
+      "authorName": "Herbert Schildt",
+      "bookPrice":650,
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41a1R+vG-GL._SX397_BO1,204,203,200_.jpg"
+    }
+  ]
+}
